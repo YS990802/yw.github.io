@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-12-11T02:35:05.555Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>余文</title>
+    <link href="http://example.com/2020/12/11/%E4%BD%99%E6%96%87/"/>
+    <id>http://example.com/2020/12/11/%E4%BD%99%E6%96%87/</id>
+    <published>2020-12-11T02:35:05.000Z</published>
+    <updated>2020-12-11T02:35:05.555Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
