@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-12T08:34:05.534Z</updated>
+  <updated>2021-01-21T11:58:16.926Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,15 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>未知</title>
-    <link href="http://example.com/2021/01/12/%E6%9C%AA%E7%9F%A5/"/>
-    <id>http://example.com/2021/01/12/%E6%9C%AA%E7%9F%A5/</id>
-    <published>2021-01-12T08:33:50.000Z</published>
-    <updated>2021-01-12T08:34:05.534Z</updated>
+    <title>关于Layui</title>
+    <link href="http://example.com/2021/01/21/Layui/"/>
+    <id>http://example.com/2021/01/21/Layui/</id>
+    <published>2021-01-21T11:40:31.000Z</published>
+    <updated>2021-01-21T11:58:16.926Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><h5 id="简介"><a href="#简介" class="headerlink" title="简介:"></a>简介:</h5><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML&#x2F;CSS&#x2F;JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于 2016 年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为后端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</span><br></pre></td></tr></table></figure><p>下载:</p><p>1、在官网上下载</p><p>官网地址:<a href="https://www.layui.com/">https://www.layui.com/</a></p><p>​    下载后的目录如下:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">├─css &#x2F;&#x2F;css目录</span><br><span class="line">  │  │─modules &#x2F;&#x2F;模块css目录（一般如果模块相对较大，会单独提取，比如下面三个：）</span><br><span class="line">  │  │  ├─laydate</span><br><span class="line">  │  │  ├─layer</span><br><span class="line">  │  │  └─layim</span><br><span class="line">  │  └─layui.css &#x2F;&#x2F;核心样式文件</span><br><span class="line">  ├─font  &#x2F;&#x2F;字体图标目录</span><br><span class="line">  ├─images &#x2F;&#x2F;图片资源目录（目前只有layim和编辑器用到的GIF表情）</span><br><span class="line">  │─lay &#x2F;&#x2F;模块核心目录</span><br><span class="line">  │  └─modules &#x2F;&#x2F;各模块组件</span><br><span class="line">  │─layui.js &#x2F;&#x2F;基础核心库</span><br><span class="line">  └─layui.all.js &#x2F;&#x2F;包含layui.js和所有模块的合并文件</span><br></pre></td></tr></table></figure><p>2、Git 仓库下载</p><p>  可以通过 <a href="https://github.com/sentsin/layui/">GitHub</a> 或 <a href="https://gitee.com/sentsin/layui">码云</a> 得到 layui 的完整开发包，以便于你进行二次开发，或者 Fork layui 为我们贡献方案</p><p>GitHub:<a href="https://github.com/sentsin/layui/">https://github.com/sentsin/layui/</a></p><p>码云:<a href="https://gitee.com/sentsin/layui/">https://gitee.com/sentsin/layui/</a></p><p>3、npm 安装，在你需要下载的文件下打开Git Bash Here,在里边输入以下代码</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i layui-src</span><br></pre></td></tr></table></figure><p>这样Layui就下载好了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;h5 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介:&quot;&gt;&lt;/a&gt;简介:&lt;/h5&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class</summary>
+      
     
     
     
+    <category term="Diary" scheme="http://example.com/categories/Diary/"/>
     
+    
+    <category term="PS3" scheme="http://example.com/tags/PS3/"/>
+    
+    <category term="Games" scheme="http://example.com/tags/Games/"/>
     
   </entry>
   
